@@ -1,4 +1,6 @@
 # ZK Circuit | ETHCC Hackathon
+![hackathon](https://user-images.githubusercontent.com/105526509/178087114-5bd7889c-80b7-4253-ba64-9508deaab05b.png)
+
 
 ### Hackathon Winner's Bracket
 
