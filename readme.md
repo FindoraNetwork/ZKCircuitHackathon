@@ -1,6 +1,7 @@
 # ZK Circuit | ETHCC Hackathon
 ![hackathon](https://user-images.githubusercontent.com/105526509/178087114-5bd7889c-80b7-4253-ba64-9508deaab05b.png)
-
+## About Findora
+Findora is a unique layer 1 ecosystem that can preserve users privacy using the strongest encryption standards such as Bulletproofs and Turbno plonk cryptography. Findora's X is an EVM compatable environment for developers to play with, and is attached to a robust UTXO layer 0 that handles full confidential and annonomous transfers for all standard solidity contracts. Developers who chose to build on Findora EVM are future proofing their technical stack to automatically enable Zero Knowledge Proof's for any parameter to the token itsef (ie. Token Asset Amount, Token type and Sending / recieving addresses). Findora is an auditable ledger that allows tokens to transact with full transparency, or full anonymity - Findora refers to this feature as "Programable Privacy"; developers choose which parameters of privacy they want to turn on and off for any particular transaction or function in their contract. This unlock a wide array of use cases that team's should consider to stand out in new and exciting ways. We at findora are thrilled to see you participate in this global hackathon. We cant wait to see what you create!
 
 ### Hackathon Winner's Bracket
 
@@ -25,3 +26,58 @@
 + The Hack can be a research paper, and be must be submitted as a Word file or PDF.
 + The Hack can be a fork of an existing project but must be fully launched on Findora testnet 
 + Before judging takes place; bonus points will be given to those who launch on Findora mainnet.
+
+## Judging 
++ Potential Impact
++ How will this project impact the growth of the broader Findora ecosystem ?
++ Does the project have an Privacy preserving features (Asset Type, Amount or address will be hidden)
++ Functionality
++ How well does the project work?
++ Novelty
++ How unique is the project idea and execution?
++ Design
++ Is the user experience and design of the project well thought out?
++ Go-to-market Strategy
++ Is the project beginning to market and garner interest from the community?
+
+
+# Privacy use cases by industry
+
+## Food for thought
+### Privacy Use Cases - By Industry ###
+#### Finance
++ Private Payments / Remittance
++ Private “Back Office” Settlement (banking, capital markets, trade finance, etc.)
+i.e. private DEXes, private loans, etc.
++ Private Insurance
+…
+#### Blockchain Infrastructure
++ Private Cross-chain bridges
++ Private DNS Registrars
++ Private DID+Range Proofs
+…
+#### DAOs / Voting
++ Private DAOs
++ Private Payroll
++ Private Voting
++ Energy
++ Private Carbon Credits
++ Private Energy Generation Records
+…
+#### Gaming/NFTs
++ Private Game or Community NFT Ownership
++ Private NFT marketplaces and secret auctions.
++ Gamified Contracts with hidden rules, functions and other unique privacy combinations can now be unlocked on Findora.
+…
+#### Healthcare
++ Private Healthcare Records
+…
+#### Media
++ Private Social Media (i.e. use w/DIDs)???
++ Supply Chain Management (SCM)
++ Private Pharma Drugs SCM
++ Private Luxury Goods SCM
++ Private Auto Goods SCM
+…
+
+
