@@ -1,5 +1,6 @@
 # ZK Circuit | ETHCC Hackathon
-![hackathon](https://user-images.githubusercontent.com/105526509/178087114-5bd7889c-80b7-4253-ba64-9508deaab05b.png)
+<img width="795" alt="Screen Shot 2022-07-18 at 2 09 08 AM" src="https://user-images.githubusercontent.com/105526509/179922385-ebb120c7-1ab4-472d-8945-a37e6d5e6103.png">
+
 ## About Findora
 Findora is a unique layer 1 ecosystem that can preserve users privacy with the strongest encryption standards such as Bulletproofs and Turbo Plonk cryptography. Findora X is an EVM compatable environment for developers to play with, and works in conjunction with the robust UTXO chain named Findora OG. Findora OG handles full confidential and annonomous transfers for all standard solidity smart contracts. Developers who chose to build on Findora's EVM are future proofing their technical stack to automatically enable Zero Knowledge Proof's for any of the main parameters within tokens (ie. token asset **Amount**, token **Type** and **Sending / recieving** addresses). Findora is an auditable ledger that allows tokens to transact with full transparency, or full anonymity - this feature is refered to as "Programable Privacy"; developers select what level of privacy they want to turn on or off for any particular transaction and function for their contract. This unlocks a wide array of use cases that team's should deeply consider to showcase new and exciting features enabled by Findora's **[https://github.com/FindoraNetwork/zei](zei library)**. 
 
