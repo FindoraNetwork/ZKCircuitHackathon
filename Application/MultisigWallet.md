@@ -61,7 +61,7 @@ Help us locate your project in the ZKP landscape and what problems it tries to s
 ### Contact
 
 - **Contact Name:** Cavocada
-- **Contact Email:** ccada@2000protonmail.com
+- **Contact Email:** ccada@protonmail.com
 - **Website:**
 
 ### Legal Structure
