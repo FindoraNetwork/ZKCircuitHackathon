@@ -80,7 +80,7 @@ Help us locate your project in the ZKP landscape and what problems it tries to s
 
 - **Contact Name:** Peter Lee
 - **Contact Email:** realcybermatrix@gmail.com
-- **Website:**
+- **Website:** https://avail.cybermatrix.info
 
 ### Legal Structure
 
