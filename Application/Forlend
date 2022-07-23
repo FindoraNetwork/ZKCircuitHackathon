@@ -1,0 +1,72 @@
+# ZK Circuit Hackathon Template
+
+- **Project Name:** Forlend
+- **Team Name:** Forlend team
+- **Payment Address:** 0x1D454c1CaEeef6c5E4511c27b3371bd06BA7D059
+
+> ⚠️ _The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the Hackathon. Please keep them safe._
+## Project Overview :page_facing_up:
+
+### Hackathon Overview
+
+Forlend.io is a lending platform built on Findora's privacy, that is, using over-collateralized lending, with economic incentive models such as deposits, borrowing, liquidity mining and community governance, to empower the utilization of ecological funds on the chain.
+
+The aims of our team are:
+
+- Introduced the first lending platform to Findora
+- Utilize Findora's privacy features to keep borrowers private
+
+### Project Details
+
+#### Contracts
+
+Deployed on Findora testnet
+
+- FLDTOKEN: 0xF024D68C1799197539C63237B80E85F27A1eEfb5
+- Comptroller: 0x1122707A6920c6596cb763A097BBEB268E2d4675
+- LP Pool: 0xB91575FC795E53e13312f1Df991352C070306D8A
+
+#### Tech Stack
+
+- Contracts: solidity,  ganache, ethers，hardhat
+- Front End: react, redux, html, CSS, javascript, react-bootstrap, styled-components, redux-sagas
+- Testing: mocha, chai, truffle-assertions
+
+#### Demo
+
+https://dev.forlend.io/
+
+### Ecosystem Fit
+
+Forlend is a mining-driven liquidity protocol based on the Findora chain, which uses over-collateralized lending, with economic incentive models such as deposits, borrowing, liquidity mining and community governance to empower the utilization of ecological funds on the chain.
+
+## Team :busts_in_silhouette:
+
+### Team members
+
+- Team leader: Frostfrog
+- Team Members: hecodev007
+- Team Members: jaaia
+- Team Members: lanetta55
+- Team Members: daiahang
+
+### Contact
+
+- **Contact Name:** Forlendofficial
+- **Contact Email:** hello.forlend@gmail.com
+
+### Team Code Repos
+
+- https://github.com/forlend-io/forlend-frontend
+- https://github.com/forlend-io/forlend_solidity
+
+### Overview
+
+- **Total Estimated Duration:** 2 months
+
+## Future Plans
+
+We will update the lend pool, the FLD mining weight of each market, and the release of FLD rewadrs.
+
+**How did you hear about the ZKCircuit Hackahton?** Twitter
+
