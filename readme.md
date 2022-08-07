@@ -1,4 +1,4 @@
-# ZK Circuit | ETHCC Hackathon
+# ZK Circuit | ETHCC Global Hackathon
 <img width="795" alt="Screen Shot 2022-07-18 at 2 09 08 AM" src="https://user-images.githubusercontent.com/105526509/179922385-ebb120c7-1ab4-472d-8945-a37e6d5e6103.png">
 
 ## About Findora
